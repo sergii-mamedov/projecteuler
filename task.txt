@@ -1,0 +1,8 @@
+If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
+
+Find the sum of all the multiples of 3 or 5 below 1000.
+================================================
+
+Якщо ми перерахуємо усі натуральні числа менші 10, які кратні 3 або 5, ми отримаємо 3, 5, 6 та 9. Сума цих кратних складає 23.
+
+Знайдіть суму усіх чисел кратних 3 чи 5 та менших 1000.

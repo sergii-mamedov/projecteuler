@@ -1,0 +1,10 @@
+# v. 1.0
+# 10.01.2018
+# Sergii Mamedov
+
+summa = 0
+for i in range(3, 1000):
+    if (i % 3 == 0) or (i % 5 == 0):
+        summa += i
+
+print(summa)
